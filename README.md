@@ -1,12 +1,12 @@
  
-<h2 align="center">Hi there 👋 I'm Athira.</h2>
+<h2 align="center">Hi there 👋 I'm Athira...</h2>
 <p align="center">
-  A Junior Web Developer
+  A Junior Front-end Web Developer
 </p>
 
 - 🔭 I’m currently trying to become a **Full Stack Web Developer**
 - 🌱 I’m currently learning **React** and **Node.js**
-- 📫 How to reach me: [@athira_tj](https://twitter.com/athira_tj) on Twitter
+- 📫 How to reach me: [Twitter](https://twitter.com/athira_tj) | [LinkedIn](https://www.linkedin.com/in/athiratj/)
 
 <!--
 
