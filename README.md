@@ -21,7 +21,4 @@ Here are some ideas to get you started:
 -->
 -------
 
-**My Weekly Development Breakdown**
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
--------
+
