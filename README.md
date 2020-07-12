@@ -1,16 +1,27 @@
-### Hi there 👋
+ 
+<h2 align="center">Hi there 👋 I'm Athira.</h2>
+<p align="center">
+  A Junior Web Developer
+</p>
+
+- 🔭 I’m currently trying to become a **Full Stack Web Developer**
+- 🌱 I’m currently learning **React** and **Node.js**
+- 📫 How to reach me: [@athira_tj](https://twitter.com/athira_tj) on Twitter
 
 <!--
-**athiratj/athiratj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+- 🌱 I’m currently learning 
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 📫 How to reach me: 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+-------
+
+**My Weekly Development Breakdown**
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+-------
