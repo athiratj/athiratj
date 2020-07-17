@@ -21,6 +21,8 @@ Here are some ideas to get you started:
 -->
 -------
 
+**My Weekly Development Breakdown**
+
 <!--START_SECTION:waka-->
 ```text
 JavaScript  1 hr 1 min          █████████████░░░░░░░░░░░░   52.31 
