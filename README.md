@@ -4,10 +4,11 @@
   A Junior Front-end Web Developer
 </p>
 
-- 🔭 I’m currently trying to become a **Full Stack Web Developer**
+- 🔭 I’m looking forward to collaborating with **OpenSource Projects**.
 - 🌱 I’m currently learning **React** and **Node.js**
 - 📫 How to reach me: [Twitter](https://twitter.com/athira_tj) | [LinkedIn](https://www.linkedin.com/in/athiratj/)
-
+- 😄 Pronouns: She/her
+- ⚡ Fun fact: When do I stop pretending to be a good programmer?
 <!--
 
 Here are some ideas to get you started:
@@ -22,7 +23,6 @@ Here are some ideas to get you started:
 -------
 
 **My Weekly Development Breakdown**
-
 <!--START_SECTION:waka-->
 ```text
 Week #29 : July 13 - 18
