@@ -25,11 +25,11 @@ Here are some ideas to get you started:
 **My Weekly Development Breakdown**
 <!--START_SECTION:waka-->
 ```text
-JavaScript  2 hrs 45 mins       ███████████████████░░░░░░   76.00 % 
-CSS         27 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.72 % 
-HTML        12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.89 % 
-SCSS        11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.22 % 
-Git Config  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
+JavaScript  4 hrs 26 mins       ███████████████████░░░░░░   79.16 % 
+CSS         45 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.54 % 
+HTML        12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 % 
+SCSS        11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   03.38 % 
+Git Config  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
 ```
 <!--END_SECTION:waka-->
 
