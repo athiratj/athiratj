@@ -4,11 +4,9 @@
 - 🔭 I’m looking forward to collaborating with **OpenSource Projects**.
 - 🌱 I’m currently learning **React** and **Node.js**
 - 😄 Pronouns: She/her
-- 📫 How to reach me:   [![Linkedin Badge](https://img.shields.io/badge/-athiratj-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/athiratj/)](https://www.linkedin.com/in/athiratj/) 
+- 📫 How to reach me:<br>   </br>[![Linkedin Badge](https://img.shields.io/badge/-athiratj-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/athiratj/)](https://www.linkedin.com/in/athiratj/) 
 [![Twitter Badge](https://img.shields.io/badge/-@athira_tj-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/athira_tj)](https://twitter.com/athira_tj)
 [![Instagram Badge](https://img.shields.io/badge/-@_athira_tj-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/_athira_tj/)](https://instagram.com/_athira_tj)
-
-- ⚡ Fun fact: When do I stop pretending to be a good programmer?
 
 -------
 #### Technologies I Use
