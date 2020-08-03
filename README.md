@@ -1,8 +1,6 @@
  
 <img src="https://raw.githubusercontent.com/athiratj/athiratj/master/assets/athira-banner.png" alt="Hi there, I'm Athira" />
 
-<img src="https://komarev.com/ghpvc/?username=athiratj" alt="athiratj" /> 
-
 - 🔭 I’m looking forward to collaborating with **OpenSource Projects**.
 - 🌱 I’m currently learning **React** and **Node.js**
 - 😄 Pronouns: She/her
