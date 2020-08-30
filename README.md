@@ -2,13 +2,13 @@
 <img src="https://raw.githubusercontent.com/athiratj/athiratj/master/assets/athira-banner.png" alt="Hi there, I'm Athira" />
 
 - 🔭 I’m looking forward to collaborating with **OpenSource Projects**.
-- 🌱 I’m currently learning **React** and **Node.js**
+- 🌱 I’m currently learning **Reactjs** and **Node.js**
 - 😄 Pronouns: She/her
 - 📫 How to reach me:<br>
 
      [![Linkedin Badge](https://img.shields.io/badge/-athiratj-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/athiratj/)](https://www.linkedin.com/in/athiratj/) 
 [![Twitter Badge](https://img.shields.io/badge/-@athira_tj-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/athira_tj)](https://twitter.com/athira_tj)
-[![Instagram Badge](https://img.shields.io/badge/-@_athira_tj-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/_athira_tj/)](https://instagram.com/_athira_tj)
+[![Instagram Badge](https://img.shields.io/badge/-@_athira_tj-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/athira__tj/)](https://instagram.com/_athira_tj)
 - 🔭Technologies I use:<br>
 
      ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
