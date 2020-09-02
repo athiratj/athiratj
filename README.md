@@ -24,13 +24,3 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=athiratj&show_icons=true&hide_border=true" alt="my github stats" width="450"/>
 
--------
-#### My Weekly Development Breakdown
-
-<!--START_SECTION:waka-->
-```text
-HTML   12 mins         ████████████████████████░   96.23 % 
-CSS    0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 % 
-```
-<!--END_SECTION:waka-->
-
