@@ -2,7 +2,7 @@
 <img src="https://raw.githubusercontent.com/athiratj/athiratj/master/assets/athira-banner.png" alt="Hi there, I'm Athira" />
 
 - 🔭 I’m looking forward to collaborating with **OpenSource Projects**.
-- 🌱 I’m currently learning **Reactjs** and **Node.js**
+- 🌱 I’m currently busy with final year college preparations🙂
 - 😄 Pronouns: She/her
 - 📫 How to reach me:<br>
 
