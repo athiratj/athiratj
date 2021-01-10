@@ -1,5 +1,5 @@
  
-<img src="https://raw.githubusercontent.com/athiratj/athiratj/master/assets/athira-banner.png" alt="Hi there, I'm Athira" />
+<img src="https://raw.githubusercontent.com/athiratj/athiratj/master/assets/banner.jpeg" alt="Hi there, I'm Athira" />
 
 - 🔭 I’m looking forward to collaborating with **OpenSource Projects**.
 - 🌱 I’m currently busy with final year college preparations🙂
@@ -21,6 +21,10 @@
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 
 -------
-
-<img src="https://github-readme-stats.vercel.app/api?username=athiratj&show_icons=true&hide_border=true" alt="my github stats" width="450"/>
+<p align="center">
+<a href="https://github.com/athiratj">
+  <img src="https://github-readme-stats.vercel.app/api?username=athiratj&show_icons=true&hide_border=true" alt="my github stats" width="450cm" height="180em"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=athiratj&layout=compact&langs_count=6&hide_border=true" width="450cm" height="180em"/>
+</a>
+</p>
 
