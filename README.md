@@ -22,9 +22,9 @@
 
 -------
 <p align="center">
-<a href="https://github.com/athiratj">
-  <img src="https://github-readme-stats.vercel.app/api?username=athiratj&show_icons=true&hide_border=true" alt="my github stats" width="450cm" height="180em"/>
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=athiratj&layout=compact&langs_count=6&hide_border=true" width="450cm" height="180em"/>
+<a href="https://github.com/mazdakpak">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=athiratj&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=athiratj&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
