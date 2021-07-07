@@ -41,9 +41,9 @@
 </p>
 <!-- [![Spotify](https://athiratj.vercel.app/api/spotify)](https://open.spotify.com/user/313qyocxmkclf342zy6u6kfuxg3u) -->
  
-<p align="center" >
+<!-- <p align="center" >
 <a href="#">
   <img height="350px" width="auto" align="center" src="https://athiratj.vercel.app/api/view.svg?uid=313qyocxmkclf342zy6u6kfuxg3u&redirect=true][https://athiratj.vercel.app/api/view.svg?uid=313qyocxmkclf342zy6u6kfuxg3u&cover_image=true&theme=default" />
 </a>
-</p>
+</p> -->
  
