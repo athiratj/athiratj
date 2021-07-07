@@ -39,5 +39,11 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=athiratj&layout=compact&langs_count=8&hide_border=true&hide=jupyter%20notebook"/>
 </a>
 </p>
-
-
+[![Spotify](https://athiratj.vercel.app/api/spotify)](https://open.spotify.com/user/313qyocxmkclf342zy6u6kfuxg3u)
+<!-- 
+<p align="center" >
+<a href="#">
+  <img height="350px" width="auto" align="center" src="https://athiratj.vercel.app/api/view.svg?uid=	313qyocxmkclf342zy6u6kfuxg3u&redirect=true][https://athiratj.vercel.app/api/view.svg?uid=	313qyocxmkclf342zy6u6kfuxg3u&cover_image=true&theme=default" />
+</a>
+</p>
+ -->
