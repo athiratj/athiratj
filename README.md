@@ -11,7 +11,7 @@
  
 - 📫 &ensp;One on one chat: <a href="https://twitter.com/athira_tj" target="_blank"><img align="center" src="https://img.shields.io/badge/-@athira_tj-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/athira_tj" alt="Twitter" /></a>
 <a href="https://www.linkedin.com/in/athiratj/" target="_blank"><img align="center" src="https://img.shields.io/badge/-athiratj-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="Linkedin" /></a>
-- ✍ &ensp;Personal blogs: <a href="https://athiratj.medium.com/" target="_blank"><img align="center" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
+- ✍ &ensp;Personal blogs: <a href="https://athiratj.medium.com/" target="_blank"><img align="center" src="https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white" alt="Medium" /></a>
 - 🙂 &ensp;Happy thoughts: <a href="https://instagram.com/athira__tj/" target="_blank"><img align="center" src="https://img.shields.io/badge/-@athira__tj-purple?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
 
 #### Technologies I use:<br>     
