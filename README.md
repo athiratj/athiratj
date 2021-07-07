@@ -30,7 +30,7 @@
 -------
 <p align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=athiratj&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&hide=issues,contribs"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=athiratj&show_icons=true&include_all_commits=true&count_private=true&hide_border=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=athiratj&layout=compact&langs_count=8&hide_border=true&hide=jupyter%20notebook"/>
 </a>
 </p>
