@@ -2,7 +2,7 @@
 <img src="https://raw.githubusercontent.com/athiratj/athiratj/master/assets/banner.png" alt="Hi there, I'm Athira" />
 
 - 🔭 I’m looking forward to collaborating with **OpenSource Projects**.
-- 🌱 I’m currently busy with my final year project🙂
+- 🌱 I’m currently learning Django🙂.
 - 😄 Pronouns: She/her
 - 📫 How to reach me:<br>
 
@@ -29,9 +29,9 @@
 
 -------
 <p align="center">
-<a href="https://github.com/mazdakpak">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=athiratj&show_icons=true&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=athiratj&layout=compact&langs_count=6&hide_border=true"/>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=athiratj&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&hide=issues,contribs"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=athiratj&layout=compact&langs_count=8&hide_border=true&hide=jupyter%20notebook"/>
 </a>
 </p>
 
