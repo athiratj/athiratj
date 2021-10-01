@@ -3,8 +3,8 @@
 
 #### About me:<br>
 - 🔭 &ensp;I love **FOSS**. I’m looking forward to collaborating with **OpenSource Projects**.
-- 🌱 &ensp;I’m currently learning **React & Django**.
-- 💬 &ensp;Let's talk about **JS and Python**.
+- 🌱 &ensp;I’m currently learning **Big Data Analytics**.
+- 💬 &ensp;Let's chat about **JS and Python**.
 - 😅 &ensp;Fun fact : I hate small talks.
   
 #### How to reach me:<br>
@@ -27,6 +27,8 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 ![MySQL](https://img.shields.io/badge/-MySQL-00000F?style=flat-square&logo=mysql)
+![Spark](https://img.shields.io/badge/-Spark-404D59?style=flat-square&logo=spark)
+![Scala](https://img.shields.io/badge/-Scala-red?style=flat-square&logo=scala)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
