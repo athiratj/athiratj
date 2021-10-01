@@ -1,5 +1,5 @@
  
-<img src="https://raw.githubusercontent.com/athiratj/athiratj/master/assets/banner.png" alt="Hi there, I'm Athira" />
+<img src="https://raw.githubusercontent.com/athiratj/athiratj/master/assets/banner-new.png" alt="Hi there, I'm Athira" />
 
 #### About me:<br>
 - 🔭 &ensp;I love **FOSS**. I’m looking forward to collaborating with **OpenSource Projects**.
