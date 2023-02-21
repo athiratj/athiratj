@@ -3,7 +3,7 @@
 
 #### About me:<br>
 - 🔭 &ensp;I love **FOSS**. I’m looking forward to collaborating with **OpenSource Projects**.
-- 🌱 &ensp;I’m currently learning **Big Data Analytics**.
+- 🌱 &ensp;I’m currently learning **Fullstack Web Development**.
 - 💬 &ensp;Let's chat about **JS and Python**.
 - 😅 &ensp;Fun fact : I hate small talks.
   
@@ -31,7 +31,6 @@
 ![Scala](https://img.shields.io/badge/-Scala-red?style=flat-square&logo=scala)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 
 -------
